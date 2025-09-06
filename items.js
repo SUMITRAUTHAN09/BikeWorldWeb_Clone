@@ -1,7 +1,7 @@
 const items = [
   {
     id: `001`,
-    item_image: 'images/1.jpg',
+    item_image: 'Images/1.jpg',
     company_name: 'Triumph',
     item_name: 'Bonneville SE',
     current_price: 300000,
@@ -11,7 +11,7 @@ const items = [
   },
   {
     id: '002',
-    item_image: 'images/2.jpg',
+    item_image: 'Images/2.jpg',
     company_name: 'Indian Motorcycle',
     item_name: 'Indian Scout Bobber',
     current_price: 1750000,
@@ -21,7 +21,7 @@ const items = [
   },
   {
     id: '003',
-    item_image: 'images/3.jpg',
+    item_image: 'Images/3.jpg',
     company_name: 'Honda',
     item_name: 'Honda CB350 H’ness',
     current_price: 215000,
@@ -31,7 +31,7 @@ const items = [
   },
   {
     id: '004',
-    item_image: 'images/4.jpg',
+    item_image: 'Images/4.jpg',
     company_name: 'Yamaha',
     item_name: 'Yamaha R3',
     current_price: 465000,
@@ -41,7 +41,7 @@ const items = [
   },
   {
     id: '005',
-    item_image: 'images/5.jpg',
+    item_image: 'Images/5.jpg',
     company_name: 'Royal Enfield',
     item_name: 'Continental GT 650 (Cafe Racer)',
     current_price: 325000,
@@ -51,7 +51,7 @@ const items = [
   },
   {
     id: '006',
-    item_image: 'images/6.jpg',
+    item_image: 'Images/6.jpg',
     company_name: 'Royal Enfield',
     item_name: 'Himalayan 450',
     current_price: 285000,
@@ -61,7 +61,7 @@ const items = [
   },
   {
     id: '007',
-    item_image: 'images/7.jpg',
+    item_image: 'Images/7.jpg',
     company_name: 'Kawasaki',
     item_name: 'Ninja H2',
     current_price: 8000000,
@@ -71,7 +71,7 @@ const items = [
   },
   {
     id: '008',
-    item_image: 'images/8.jpg',
+    item_image: 'Images/8.jpg',
     company_name: 'Honda',
     item_name: 'CB1000R',
     current_price: 1200000,
@@ -81,7 +81,7 @@ const items = [
   },
   {
     id: '009',
-    item_image: 'images/9.jpg',
+    item_image: 'Images/9.jpg',
     company_name: 'Aprilia',
     item_name: 'RSV4',
     current_price: 2300000,
@@ -91,7 +91,7 @@ const items = [
   },
   {
     id: '010',
-    item_image: 'images/10.jpg',
+    item_image: 'Images/10.jpg',
     company_name: 'BMW',
     item_name: 'S1000RR',
     current_price: 2075000,
@@ -101,7 +101,7 @@ const items = [
   },
   {
     id: '011',
-    item_image: 'images/11.jpg',
+    item_image: 'Images/11.jpg',
     company_name: 'Kawasaki',
     item_name: 'Ninja ZX-6R',
     current_price: 1169000,
@@ -111,7 +111,7 @@ const items = [
   },
   {
     id: '012',
-    item_image: 'images/12.jpg',
+    item_image: 'Images/12.jpg',
     company_name: 'Ducati',
     item_name: 'Panigale V4',
     current_price: 2999000,
@@ -121,7 +121,7 @@ const items = [
   },
   {
     id: '013',
-    item_image: 'images/13.jpg',
+    item_image: 'Images/13.jpg',
     company_name: 'Triumph',
     item_name: 'Rocket 3',
     current_price: 2248153,
@@ -131,7 +131,7 @@ const items = [
   },
   {
     id: '014',
-    item_image: 'images/14.jpg',
+    item_image: 'Images/14.jpg',
     company_name: 'Honda',
     item_name: 'CRF300L',
     current_price: 330000,
@@ -141,7 +141,7 @@ const items = [
   },
   {
     id: '015',
-    item_image: 'images/15.jpg',
+    item_image: 'Images/15.jpg',
     company_name: 'Suzuki',
     item_name: 'Hayabusa',
     current_price: 1690000,
@@ -150,7 +150,7 @@ const items = [
     rating: { stars: 4.8, review: 104 },
   },
   {
-    item_image: 'images/16.jpg',
+    item_image: 'Images/16.jpg',
     company_name: 'Kawasaki',
     item_name: 'Z650',
     current_price: 665000,
@@ -159,7 +159,7 @@ const items = [
     rating: { stars: 4.6, review: 149 },
   },
   {
-    item_image: 'images/17.jpg',
+    item_image: 'Images/17.jpg',
     company_name: 'Suzuki',
     item_name: 'GSX-8S',
     current_price: 1000000, 
@@ -168,7 +168,7 @@ const items = [
     rating: { stars: 4.7, review: 94 },
   },
   {
-    item_image: 'images/18.jpg',
+    item_image: 'Images/18.jpg',
     company_name: 'Yamaha',
     item_name: 'MT-09',
     current_price: 1150000, 
@@ -177,7 +177,7 @@ const items = [
     rating: { stars: 4.6, review: 87 },
   },
   {
-    item_image: 'images/19.jpg',
+    item_image: 'Images/19.jpg',
     company_name: 'Aprilia',
     item_name: 'Tuono 660',
     current_price: 1309000, 
@@ -186,7 +186,7 @@ const items = [
     rating: { stars: 4.7, review: 72 },
   },
   {
-    item_image: 'images/20.jpg',
+    item_image: 'Images/20.jpg',
     company_name: 'Yamaha',
     item_name: 'YZF R1',
     current_price: 2039000, 
