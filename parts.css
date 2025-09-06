@@ -36,6 +36,7 @@ header {
     text-decoration: none;
     padding: 28px 0;
     border-bottom: 5px solid #ffffff;
+    margin:10px;
 }
 .nav_bar a:hover {
     border-bottom: 4px solid #f54e77;
